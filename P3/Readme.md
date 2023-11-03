@@ -49,14 +49,17 @@ el archivo .htacess para implementarlo.
 
 ![7](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/2543b6c4-15b3-43ef-950e-7bb390afaafd)
 
-![8](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/01984168-1a24-4593-b367-85396f8731bf)
-
+![8](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/380c5fb0-7715-48dc-b8e3-66a971ec7610)
 
 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar
 https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la
 atención.
-.
 
+![10](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/6347e093-1a28-4c40-809c-ef2e15939cd9)
+
+![11](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/0e7c3d40-8c22-47e1-b86c-9560434ef20e)
+
+![12](https://github.com/Jowi2993/despliegue-de-aplicaciones-web/assets/144775347/81125ae7-baca-4f40-98e8-245fab1eb47b)
 
 6. (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias
 externas.
